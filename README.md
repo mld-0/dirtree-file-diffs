@@ -1,2 +1,2 @@
-In a directory (containing files such as '~/_mld/macOS/etc/pam.d'), identify corresponding 'real' files which are different
+In a directory (containing files such as './etc/pam.d/sudo'), identify corresponding files WRT '/' which are different
 
